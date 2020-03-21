@@ -1,2 +1,5 @@
 # Matlab-Utilities
- Matlab utilities that help in testing data science and machine learning algorithms
+ MATLAB utilities that support in testing and running data science and machine learning algorithms
+## Generate 2D data
+A MATLAB utility that is used to generate 2D classes of various shapes. It is written using MATLAB's app designer, and requires the statistical toolbox.
+![Generate 2D Data app](images/img1.png)
