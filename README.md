@@ -23,3 +23,4 @@ A MATLAB utility that is used to generate 2D classes of various shapes. It is wr
     4. Half-Circle: x2.5 radius in x or y direction
 6. Angle: Rotation angle, clockwise, in degrees
 7. Thickness: Only affects __Circular__ or __Half-Circle__.
+* Export: Once done, click on the __export__ button, data is exported to __output.csv__. First  column is the class number, second and third columns are x and y values, respectively. File does not have a header row.
