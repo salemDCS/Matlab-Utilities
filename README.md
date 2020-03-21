@@ -5,7 +5,7 @@ A MATLAB utility that is used to generate 2D classes of various shapes. It is wr
 ![Generate 2D Data app](Images/im_gen2d_1.png)
 ### How To Use
 * Choose the class type in the dropdown in __Class options__. Current options are:
-1. Gaussian
-2. Uniform
-3. Circular
-4. Half-circle
+    1. Gaussian
+    2. Uniform
+    3. Circular
+    4. Half-circle
