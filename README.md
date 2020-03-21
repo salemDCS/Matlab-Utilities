@@ -10,3 +10,5 @@ A MATLAB utility that is used to generate 2D classes of various shapes. It is wr
 3. Circular
 4. Half-circle
 * Click on the __Add Class__ button. A class with default properties will be created and can be seen in __Class plots__.
+* The range of the plot can be modified in __Axes range__ section. This does not affect the generated classes, only changes the axes view
+__NOTE: The app now only supports 7 different classes.__
